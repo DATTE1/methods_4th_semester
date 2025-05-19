@@ -93,3 +93,4 @@ func main() {
   }
   fmt.Println("]")
   fmt.Println("Ожидаемый результат: [0.0]")
+}
